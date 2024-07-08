@@ -1,0 +1,17 @@
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+.padre{
+    background: red;
+    height: 500px;
+    width: 500px;
+    padding: 50px;
+}
+.hijo{
+    background-color: cyan;
+    height:250px ;
+    width: 250px;
+}
